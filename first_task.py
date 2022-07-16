@@ -1,4 +1,3 @@
-from time import sleep
 '''
 Задача A. Несчастливые светофоры
 Имя входного файла: стандартный ввод
@@ -31,4 +30,3 @@ from time import sleep
 ответ: 1000.
 '''
 print(int(input()) - int(input()) * 3)
-sleep(1)
